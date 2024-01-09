@@ -1,0 +1,15 @@
+C:\Users\Paledi\Desktop\Paledimilestone 2\bin\Debug\net6.0\Paledimilestone 2.exe
+C:\Users\Paledi\Desktop\Paledimilestone 2\bin\Debug\net6.0\Paledimilestone 2.deps.json
+C:\Users\Paledi\Desktop\Paledimilestone 2\bin\Debug\net6.0\Paledimilestone 2.runtimeconfig.json
+C:\Users\Paledi\Desktop\Paledimilestone 2\bin\Debug\net6.0\Paledimilestone 2.dll
+C:\Users\Paledi\Desktop\Paledimilestone 2\bin\Debug\net6.0\Paledimilestone 2.pdb
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.csproj.AssemblyReference.cache
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.AssemblyInfoInputs.cache
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.AssemblyInfo.cs
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.csproj.CoreCompileInputs.cache
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.dll
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\refint\Paledimilestone 2.dll
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.pdb
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\Paledimilestone 2.genruntimeconfig.cache
+C:\Users\Paledi\Desktop\Paledimilestone 2\obj\Debug\net6.0\ref\Paledimilestone 2.dll
